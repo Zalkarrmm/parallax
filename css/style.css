@@ -72,7 +72,8 @@ header{
     text-transform: uppercase;
     position: absolute;
     font-size: 7.5vw;
-    right: -350px;
+    top: 0px;
+    left: 0px;
     z-index: 12392983 ;
 }
 .btn{
